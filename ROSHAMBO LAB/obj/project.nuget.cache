@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Im9wFH3X8jk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Michael Storm\\source\\repos\\ROSHAMBO LAB\\ROSHAMBO LAB\\ROSHAMBO LAB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Michael Storm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.10\\microsoft.netcore.app.host.win-x64.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

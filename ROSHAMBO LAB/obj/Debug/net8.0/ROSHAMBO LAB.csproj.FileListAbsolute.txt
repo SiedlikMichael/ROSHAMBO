@@ -1,0 +1,14 @@
+C:\Users\Michael Storm\source\repos\ROSHAMBO LAB\ROSHAMBO LAB\obj\Debug\net8.0\ROSHAMBO LAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael Storm\source\repos\ROSHAMBO LAB\ROSHAMBO LAB\obj\Debug\net8.0\ROSHAMBO LAB.AssemblyInfoInputs.cache
+C:\Users\Michael Storm\source\repos\ROSHAMBO LAB\ROSHAMBO LAB\obj\Debug\net8.0\ROSHAMBO LAB.AssemblyInfo.cs
+C:\Users\Michael Storm\source\repos\ROSHAMBO LAB\ROSHAMBO LAB\obj\Debug\net8.0\ROSHAMBO LAB.csproj.CoreCompileInputs.cache
+C:\Users\Michael Storm\source\repos\ROSHAMBO LAB\ROSHAMBO LAB\bin\Debug\net8.0\ROSHAMBO LAB.exe
+C:\Users\Michael Storm\source\repos\ROSHAMBO LAB\ROSHAMBO LAB\bin\Debug\net8.0\ROSHAMBO LAB.deps.json
+C:\Users\Michael Storm\source\repos\ROSHAMBO LAB\ROSHAMBO LAB\bin\Debug\net8.0\ROSHAMBO LAB.runtimeconfig.json
+C:\Users\Michael Storm\source\repos\ROSHAMBO LAB\ROSHAMBO LAB\bin\Debug\net8.0\ROSHAMBO LAB.dll
+C:\Users\Michael Storm\source\repos\ROSHAMBO LAB\ROSHAMBO LAB\bin\Debug\net8.0\ROSHAMBO LAB.pdb
+C:\Users\Michael Storm\source\repos\ROSHAMBO LAB\ROSHAMBO LAB\obj\Debug\net8.0\ROSHAMBO LAB.dll
+C:\Users\Michael Storm\source\repos\ROSHAMBO LAB\ROSHAMBO LAB\obj\Debug\net8.0\refint\ROSHAMBO LAB.dll
+C:\Users\Michael Storm\source\repos\ROSHAMBO LAB\ROSHAMBO LAB\obj\Debug\net8.0\ROSHAMBO LAB.pdb
+C:\Users\Michael Storm\source\repos\ROSHAMBO LAB\ROSHAMBO LAB\obj\Debug\net8.0\ROSHAMBO LAB.genruntimeconfig.cache
+C:\Users\Michael Storm\source\repos\ROSHAMBO LAB\ROSHAMBO LAB\obj\Debug\net8.0\ref\ROSHAMBO LAB.dll
